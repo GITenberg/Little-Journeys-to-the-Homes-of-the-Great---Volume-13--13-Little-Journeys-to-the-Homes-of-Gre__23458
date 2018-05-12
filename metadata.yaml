@@ -1,0 +1,37 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-13--13-Little-Journeys-to-the-Homes-of-Gre__23458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+tableOfContents: Robert Louis Stevenson and Fanny Osbourne -- Josiah and Sarah Wedgwood
+  -- William Godwin and Mary Wollstonecraft -- Dante and Beatrice -- John Stuart Mill
+  and Harriet Taylor -- Parnell and Kitty O'Shea -- Petrarch and Laura -- Dante Gabriel
+  Rossetti and Elizabeth Eleanor Siddall -- Balzac and Madame Hanska -- Fenelon and
+  Madam Guyon -- Ferdinand Lassalie and Helene von Donniges -- Lord Nelson and Lady
+  Hamilton.
+title: "Little Journeys to the Homes of the Great - Volume 13\r\nLittle Journeys to\
+  \ the Homes of Great Lovers"
+url: http://www.gutenberg.org/ebooks/23458
